@@ -18,3 +18,5 @@ Language: Python
 Containerization: Docker
 
 ## The API documentation (Swagger UI) is available at http://localhost:8000/docs.
+![Capture](https://github.com/ImranMalik-1/key-value-store-app/assets/54236357/2908b5ea-69be-4edd-becf-7b144dd35788)
+
